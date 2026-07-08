@@ -21,7 +21,6 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/lesedi-mogoane-655166242/
 - 📧 Email: moeshalesedi@gmail.com
 - 🌐 Portfolio Website: Coming Soon 🚧
 
