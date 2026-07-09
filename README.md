@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Cybersecurity Projects
 
-- **Project 01:** [Azure Sentinel Honeypot Attack Detection and Investigation Lab](https://github.com/Lesedi2003/Azure-Sentinel-Honeypot-Lab)
+- **Project 01:** [Azure-SIEM-SOAR-Lab](https://github.com/Lesedi2003/Azure-Sentinel-Honeypot-Lab)
 
 ## 🎯 Current Goals
 
