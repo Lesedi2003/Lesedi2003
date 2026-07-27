@@ -10,7 +10,7 @@
 ## 👨‍💻 Cybersecurity Projects
 
 - **Project 01:** [Azure-SIEM-SOAR-Lab](https://github.com/Lesedi2003/Azure-Sentinel-Honeypot-Lab)
-- **Project 02:** [Microsoft Defender XDR Incident Response Lab](https://github.com/Lesedi2003/Microsoft-Defender-XDR-Incident-Response-Lab)
+- **Project 02:** [Microsoft Defender XDR Incident Investigation Lab](https://github.com/Lesedi2003/Microsoft-Defender-XDR-Incident-Response-Lab)
 
 ## 🎯 Current Goals
 
